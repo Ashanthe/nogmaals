@@ -1,10 +1,10 @@
-i = 1
-x = 1
-while i <= 12:
+a = 1
+b = 1
+while a <= 12:
     print(str(i) + "AM")
-    i = i + 1
+    a = a + 1
 
-while x <= 12:
+while b <= 12:
     print(str(x)+"PM")
-    x = x + 1
+    b = b + 1
 
